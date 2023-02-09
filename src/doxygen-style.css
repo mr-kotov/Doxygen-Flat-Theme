@@ -636,3 +636,13 @@ hr.footer {
 .plantumlgraph > img {
     width: 80%;
 }
+.directory tr.odd {
+    padding-left: 6px;
+    background-color: #E1E1E1;
+}
+.classindex dl.even {
+    background-color: #E1E1E1;
+}
+.classindex dl.odd {
+    background-color: white;
+}
